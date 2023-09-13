@@ -1,0 +1,6 @@
+name: InstantShulkerBox
+version: '${version}'
+main: com.sugar_tree.instantshulkerbox.InstantShulkerBox
+api-version: 1.15
+authors: [ sugar_tree ]
+website: https://github.com/the-sugar-tree
