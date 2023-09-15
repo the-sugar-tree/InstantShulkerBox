@@ -1,4 +1,4 @@
-# Instant Shulker Box Plugin
+# Instant Shulker Box Plugin (v1.0)
 
 ---
 <p align="center">
@@ -9,7 +9,7 @@
 
 ---
 [![Youtube](https://img.shields.io/badge/youtube-sugar_tree-red.svg?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCtqLK2FrJI9BNB0BI8-sWHA)
-[![Release](https://img.shields.io/github/v/release/the-sugar-tree/InstantShulkerBox?style=for-the-badge)](https://github.com/the-sugar-tree/InstantShulkerBox/releases/tag/v1.0)
+[![Release](https://img.shields.io/github/v/release/the-sugar-tree/InstantShulkerBox?style=for-the-badge)](https://github.com/the-sugar-tree/InstantShulkerBox/releases/latest)
 [![Java](https://img.shields.io/badge/java-17-ED8B00.svg?logo=java&style=for-the-badge)](https://www.azul.com/)
 [![DownloadCount](https://img.shields.io/github/downloads/the-sugar-tree/InstantShulkerBox/total?style=for-the-badge)](https://github.com/the-sugar-tree/InstantShulkerBox/releases)   
 [![SupportVersion](https://img.shields.io/badge/Supported%20Minecraft%20Version-1.12—1.20.1-green?style=for-the-badge)](https://github.com/the-sugar-tree/InstantShulkerBox)
