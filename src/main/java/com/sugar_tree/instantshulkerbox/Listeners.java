@@ -12,6 +12,7 @@ import org.bukkit.inventory.Inventory;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.BlockStateMeta;
 
+import javax.annotation.Nonnull;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.UUID;
@@ -67,7 +68,7 @@ public class Listeners implements Listener {
         map.put(p.getUniqueId(), i);
     }
 
-    private boolean isShulkerBox(Material material) {
+    private boolean isShulkerBox(@Nonnull Material material) {
         switch (material) {
             case SHULKER_BOX:
             case BLACK_SHULKER_BOX:
